@@ -12,7 +12,7 @@ About data protection and its relevance why we should be aware of it. It also di
 - Cybersecurity is also known as computer security or information technology security. 
 - Cybersecurity includes techniques combined with people along with the processes and are designed to protect digital infrastructures and sensitive data in order to secure the continuity of business and avoid financial losses.
 
-### 2. Characteristics of Cybersecurity
+### 2.2 Characteristics of Cybersecurity
 
 - A topic that nobody thinks of unless bad thing happen
 - A topic that is not given much attention in business planning
